@@ -1,7 +1,7 @@
 function acender() {
-    document.getElementById("imgLamp").src = "/img/acesa.jpg";
+    document.getElementById("imgLamp").src = "./img/acesa.jpg";
 }
 
 function apagar() {
-    document.getElementById("imgLamp").src = "/img/apagada.jpg";
+    document.getElementById("imgLamp").src = "./img/apagada.jpg";
 }
